@@ -484,4 +484,4 @@ $RECYCLE.BIN/
 *.swp
 
 API/appsettings.json
-API/coolgram.db*
+API/luminos.db*
