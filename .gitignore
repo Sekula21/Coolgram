@@ -485,3 +485,4 @@ $RECYCLE.BIN/
 
 API/appsettings.json
 API/luminos.db*
+API/Data/Migrations/*
